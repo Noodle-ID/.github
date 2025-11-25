@@ -31,7 +31,7 @@ Basically, everything you need to build in the Noodl universe.
 All documentation lives inside the /docs directory.
 | Category                | Description                                       | Link                                                |
 | ----------------------- | ------------------------------------------------- | --------------------------------------------------- |
-| **Brand Guideline**     | Colors, logo rules, typography, voice, philosophy | [View Document](docs/BRAND_GUIDELINE.md) |
+| **Brand Guideline**     | Colors, logo rules, typography, voice, philosophy | [View Document](../docs/BRAND_GUIDELINE.md) |
 
 
 >If a file doesn’t exist yet, feel free to create it under the /docs folder. Noodl grows the more you plug into it.
